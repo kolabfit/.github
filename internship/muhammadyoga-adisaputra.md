@@ -18,7 +18,7 @@ Thank you for being a part of the Ko+Lab Internship Program! Please fill out the
 ## Education
 
 - University/School: Telkom University
-- Degree/Program: D3 Sistem Informasi
+- Degree/Program: Associate Degree in Information Systems
 - Expected Graduation Date: 2025
 
 ## Experience
@@ -27,7 +27,7 @@ Thank you for being a part of the Ko+Lab Internship Program! Please fill out the
 
 ## Skills
 
-- Programming Languages: Python/MySQL
+- Programming Languages: Python and MySQL
 - Tools/Frameworks: -
 - Other Skills: -
 
@@ -46,11 +46,16 @@ Thank you for being a part of the Ko+Lab Internship Program! Please fill out the
 ## Feedback
 
 - What did you learn during your time at Ko+Lab?  \
-  [Your answer here]
+  - Learn how to work together
+  - Learn how the work experience will be
+  - Learn how a project will be successful
 - What did you enjoy most about the internship?  \
-  [Your answer here]
+  Happy know a lot of friends, add insight and experience as well
 - What could have been improved during your time at Ko+Lab?  \
-  [Your answer here]
+ - Work experience
+ - How to work together
+ - How to resolve a conflict
+ - How to handle projects
  
  
 Thank you for taking the time to provide your information. This will help us improve our internship program and provide better opportunities for future interns.
