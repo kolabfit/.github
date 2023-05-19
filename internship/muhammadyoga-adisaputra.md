@@ -10,27 +10,26 @@ Thank you for being a part of the Ko+Lab Internship Program! Please fill out the
 
 ## Personal Information
 
-- Name: [Your full name]
-- Email: [Your email address]
-- Github: [Your phone number]
-- Social Media: [Your full address]
+- Name: Muhammad Yoga Adi Saputra
+- Email: m.yogaadi1234@gmail.com
+- Github: https://github.com/myogaads
+- Social Media: https://www.instagram.com/myogaads/
 
 ## Education
 
-- University/School: [Name of your university or school]
-- Degree/Program: [Name of your degree or program]
-- Expected Graduation Date: [Your expected graduation date]
+- University/School: Telkom University
+- Degree/Program: D3 Sistem Informasi
+- Expected Graduation Date: 2025
 
 ## Experience
 
-- Previous Internship Experience: [Yes/No]
-- If yes, please provide details: [List your previous internship experience, including the name of the company, your role, and the duration of the internship]
+- Previous Internship Experience: No
 
 ## Skills
 
-- Programming Languages: [List any programming languages you are proficient in]
-- Tools/Frameworks: [List any tools or frameworks you have experience using]
-- Other Skills: [List any other skills or experience that you think are relevant]
+- Programming Languages: Python/MySQL
+- Tools/Frameworks: -
+- Other Skills: -
 
 ## Projects
 
