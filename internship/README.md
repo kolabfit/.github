@@ -12,7 +12,7 @@ Thank you for being a part of the Ko+Lab Internship Program! Please fill out the
 
 - Name: [Your full name]
 - Email: [Your email address]
-- Github: [Your phone number]
+- Github: [Your github username]
 - Social Media: [Your full address]
 
 ## Education
